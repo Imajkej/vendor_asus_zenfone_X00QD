@@ -3606,12 +3606,20 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
+    qcrilhook \
     AsusCamera \
     ConnectionSecurityService \
     PowerOffAlarm \
     SSGTelemetryService \
     SelfieMaster \
     TimeService \
+    SVIService \
+    Qmmi \
     TrustZoneAccessService \
+    vendor.qti.hardware.alarm-V1.0-java \
+    vendor.qti.hardware.factory-V1.0-java \
+    CallFeaturesSetting \
+    vendor.qti.hardware.sensorscalibrate-V1.0-java \
+    uceShimService \
     Zenimoji \
     WfdCommon
