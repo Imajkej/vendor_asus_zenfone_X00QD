@@ -3599,6 +3599,7 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.server@2.1 \
     com.quicinc.cne.server@2.2 \
     QtiTelephonyService \
+    QtiSystemService \
     aptxui \
     datastatusnotification \
     embms \
