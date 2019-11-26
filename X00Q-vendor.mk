@@ -417,7 +417,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00Q/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
     vendor/asus/X00Q/proprietary/framework/embmslibrary.jar:system/framework/embmslibrary.jar \
     vendor/asus/X00Q/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
-    vendor/asus/X00Q/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/asus/X00Q/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/asus/X00Q/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/asus/X00Q/proprietary/framework/vendor.qti.data.factory-V1.0-java.jar:system/framework/vendor.qti.data.factory-V1.0-java.jar \
@@ -609,7 +608,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00Q/proprietary/vendor/bin/cnd:$(TARGET_COPY_OUT_VENDOR)/bin/cnd \
     vendor/asus/X00Q/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon \
     vendor/asus/X00Q/proprietary/vendor/bin/cnss_diag:$(TARGET_COPY_OUT_VENDOR)/bin/cnss_diag \
-    vendor/asus/X00Q/proprietary/vendor/bin/cplay:$(TARGET_COPY_OUT_VENDOR)/bin/cplay \
     vendor/asus/X00Q/proprietary/vendor/bin/diag_callback_sample:$(TARGET_COPY_OUT_VENDOR)/bin/diag_callback_sample \
     vendor/asus/X00Q/proprietary/vendor/bin/diag_dci_sample:$(TARGET_COPY_OUT_VENDOR)/bin/diag_dci_sample \
     vendor/asus/X00Q/proprietary/vendor/bin/diag_klog:$(TARGET_COPY_OUT_VENDOR)/bin/diag_klog \
@@ -643,9 +641,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00Q/proprietary/vendor/bin/hdcp2p2prov:$(TARGET_COPY_OUT_VENDOR)/bin/hdcp2p2prov \
     vendor/asus/X00Q/proprietary/vendor/bin/hostapd_cmd:$(TARGET_COPY_OUT_VENDOR)/bin/hostapd_cmd \
     vendor/asus/X00Q/proprietary/vendor/bin/hvdcp_opti:$(TARGET_COPY_OUT_VENDOR)/bin/hvdcp_opti \
-    vendor/asus/X00Q/proprietary/vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.biometrics.fingerprint@2.1-service \
-    vendor/asus/X00Q/proprietary/vendor/lib/hw/lights.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.sdm660.so \
-    vendor/asus/X00Q/proprietary/vendor/lib64/hw/lights.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/lights.sdm660.so \
     vendor/asus/X00Q/proprietary/vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.bluetooth@1.0-service-qti \
     vendor/asus/X00Q/proprietary/vendor/bin/hw/android.hardware.drm@1.1-service.widevine:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.drm@1.1-service.widevine \
     vendor/asus/X00Q/proprietary/vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.gatekeeper@1.0-service-qti \
